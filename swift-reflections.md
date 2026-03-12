@@ -6,3 +6,11 @@ Of the key examples above, which did you like most and why?
 
 What do you expect from this class? What would you like to be better at by the end of semester?
 >
+
+
+
+
+
+
+In terms of AI and ethics, consider where your own boundaries are in terms of what is unacceptable or acceptable use of AI. What do you see as potential ethical use-cases of AI (e.g., for research, for furthering open-source knowledge, for testing new areas of learning)? What are your hopes for the future of AI?
+> When considering the applications of AI, I am made to think of it's capacity in the follwing two catergories: the creative and the non-creative. But it is the divorcing of the one from the other in which i feel lies the demliema of AI's reletionships with ethics. In general, from my expirenece, I have witnessed people showing significant apprehesion to the use of AI's in what they consider the creative feilds, those such as wrting, filmmaking and so forth. And while to a degree I share a level of trepedation( although i would consider it to be closer to being jadded or disintrested) towards elements of its use, particuly the training of lanaguge models on prexisting work, I tend to feel that this thought process faltets in the manner in which it has arpoached this segration of creative and non-creative. 
