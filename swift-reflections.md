@@ -26,3 +26,21 @@ Reflect upon the importance of tracking tools of making (e.g., for iterative pur
 
 What are your motivators for telling your particular story in the digital space?
 > As referred to in a previous reflection, I am intrigued by the 'layers' of text and language. Some of my favourite writers, Charles Olson, Lynn Hejinian, Renee Gladman, have endeavoured continuously to move beyond the established understandings of language, and their works have furthered my interest in this area. What may be achieved through linguistic experimentation has been demonstrated repeatedly over the past century, but the physical nature of it can be limiting in ways the digital one would not be. Digital spaces allow for greater levels of dimensionality whilst not sacrificing intelligibility. Where experimental works have often had their accessibility compromised by the density experimentation can necessitate, digital experimentation can move the reader through its work much more seamlessly. I don't know exactly what story I wish to tell, but I am fascinated by the geometry upon which it will develop.
+
+SWIFT REFLECTION: Iteration
+> So farIteration has played a significant role in how my project has developed so far. this can be seen in the shift between the two prototypes of the cityscape.
+> In the first iteration, the text was arranged in a strict grid. This demonstated the concept worked, this was what I was ho[ing for the initial prototype, but but as for what i wish for the project to be, i needed to futher iterate. I then removed the grid, characters were now scattered and randomly offset, and the single building was chnaged into a full skyline. I don't consider the first prototype to be a failure, more so a proof of concept, but its short commings where helpful in the creation of the second iteration.
+> Beyond the visuals, the iterative process also raised whether the city should regenerate on each visit or remain fixed. While i had already contemplated this quastion, it only developed clarity after iterative proccess.
+
+SWIFT REFLECTION
+
+What is the purpose of your piece? Was there an inspiration that brought it about?
+>  To create an explorable space where language and place are the same thing. It was inspired primarily by Borges' Library of Babel and Renee Gladman's Ravicka series. These two works explore the nature of space and the sense of unknowing the inhabits it.
+
+What is the overall vision for your piece (spatially, architecturally) and how do the prototyped four rooms/screens fit into that vision? Have you received feedback on anything that is missing or unclear, that you need to develop further?
+> The overall vision is a navigable 3D cityscape comprised entirely of text. Spatially, the city is experienced from within, the viewer orbiting through a skyline of buildings whose surfaces are populated with language generated from my own writing. The architecture is intentionally ambiguous in the same manner that I consider its influences to be.
+> As for the prototyped screens, they have antailed establishing the core navigation (mouse movement orbiting the cityscape), the building surfaces as sites of text, the ground plane, and the somewhat lumanescent qualityto give the city a sense of depth and movement.
+> In terms of what needs further development, the most significant gap is the connection between the two threads, the cityscape and the AI model.
+
+What are the practical next steps you will take to prepare your work-in-progress for presentation?
+> completing the fine tuning of the LLaMA model on my assembled writing. From here I will then train the ai model. These a most pressing of steps as I need to begin to intergrate this feature to confirm its viability.
