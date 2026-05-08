@@ -1,7 +1,7 @@
 WEEK 6
 
 Progress Audit #1 | 
-> 3D cityscape built entirely from text — no images, no textures, no colour
+>3D cityscape built entirely from text — no images, no textures, no colour
 > Two major influences | Borges - Library of Babel, Renee Gladman - Ravicka series. In Gladman, meaning is less about discription and more about ambiance and atmosphere.
 > User enters through the browser — city is immediately present, no menu or instructions. Only interaction at this stage is movement: mouse orbits the city, auto-rotates when still. Building surfaces populated with text, ground plane beneath, varying building heights create depth
 > AI layer sits outside current prototype but will eventually feed into it
