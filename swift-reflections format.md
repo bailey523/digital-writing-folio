@@ -67,7 +67,8 @@ When considering the applications of AI, I am made to think of its capacity in t
 
 **After reading "Closer to the Metal" by Caleb Triscari and considering Berens' critique of Instagram poetry:** Reflect on your own relationship to the ubiquitous digital platforms of daily life. How do you currently position yourself in relation to technology in your creative writing practice?
 
-[your response here]
+In general, I am unengaged with the majority of digital platforms, and those with which I do, has a more observatory quality than a particapatory one. Triscari's framing of digital platforms as systems that gradually absorb autonomy resonates with me as the uniquity of said platforms and the algorithms behind them seems to me to be gradually and insidiously eroding the self in favour of homogenity. I see parallas with the past, as this is not new but more of a reconfiguration. Walter Benjiman's exploration of physical space by way of arcades, and the manner in which they promoted fascist thinking, is not dissimilar from the digital spaces we occupy today, and it is for this reason, albeit rather simplfied, I am wary of our move into these digital spaces.
+I follow things such as art  and critical theory based substacks as a way of accessing ideas and concepts that would not be readily available to me otherwise.For the most part, technology plays a minimal role in  my writing practice. Having said this, a constant theme in my writing is time and ontology. I use technology, as a way of obsessive self archival, tracking everything i do, and am able to, through this, reference extensively.
 
 ---
 
@@ -82,14 +83,6 @@ I see tracking as a process of self-archival, a one taht is self-vivisecting. I 
 
 ---
 
-## Week 4 — Wednesday
-*200–400 words | Assessment 1 Process Documentation*
-
-**Interactive narrative and ergodic literature**
-
-Note your findings from the in-class exercise: analyse the architecture (layers, structures, interactions) of the hypertext piece you read using Aarseth's and Ryan's frameworks — considering categories such as author/narrator/narratee/reader, and internal vs. external / exploratory vs. ontological interactivity.
-
-[your response here]
 
 ---
 
@@ -163,4 +156,4 @@ The piece allows the nature of absence to coexist with technological reconstruct
 - Connections to scholarly contexts from course readings
 - Reflection on how your work fits into the broader field of digital writing practice
 
-[your response here]
+[response here]
