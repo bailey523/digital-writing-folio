@@ -1,5 +1,5 @@
-# Critical Reflection — Bailey Cooper
-## COMM2651 Digital Writing 2026
+# Critical Reflection 
+
 
 Throughout the whole of this project, I have been attempting to negotiate between conceptual ambition and technical capacity. My initial vision for the text city was considerably more expansive — one that was to be a fully interactive and navigable space, where an AI model trained on my own writing would generate language in real time, so as to erect the cityscape anew on each visit. The end product was instead a simplified but functional version of that vision. Having the AI model interact with the city each time was ultimately abandoned for the final project, as it would have required me to host it. The compromise was eight pre-generated pieces which could then be selected by the viewer. Each constraint helped to bring clarity to the project, even if I was disappointed by the results. The version of the project that ran locally had a quality that the final one does not — watching the city be built in real time was immensely satisfying, and that remains something I intend to develop further.
 
