@@ -156,4 +156,6 @@ The piece allows the nature of absence to coexist with technological reconstruct
 - Connections to scholarly contexts from course readings
 - Reflection on how your work fits into the broader field of digital writing practice
 
-[response here]
+The project is one of considerable self-archiving and ontological investigation  in the manner it was conceived. The AI model, trained on around 90,000 words of my own writing correlates with Derrida's notion of archive fever, the desire to return to the origin, gathering and preserving what might otherwise dissipate. 
+The model, is it at times rough, but has managed capture, both my themes and style. This transference of the personal and ontological into something more representative of todays world, sits naturally within the generative and algorithmic tradition of electronic literature. 
+Flores' account of second and third generation E-Lit, where code becomes a co-author and the reader's interaction is a reconfiguring of the text, describes the logic of my piece well. The viewer's ability to select from eight texts and rebuild the cityscape is not dissimilar from the logic of works like Taroko Gorge or the Dada Remix we did in class.
